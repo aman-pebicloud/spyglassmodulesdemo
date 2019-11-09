@@ -1,0 +1,4 @@
+[submodule "timer"]
+	path = timer
+	url = git@github.com:aman-pebicloud/timer.git
+	branch = master
